@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dash_title_notconnected">Non Connesso</string>
+    <string name="dash_title_airplanemode">Modalità aereo</string>
+    <string name="dash_subtitle_roaming">Roaming attivo</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_wifi">Wifi:</string>
+    <string name="title_mobile">Mobile:</string>
+
+    <string name="label_notConnected">Non Connesso</string>
+    <string name="label_connected">Connesso</string>
+    <string name="label_Ip">Indirizzo IP:</string>
+    <string name="label_Speed">Velocità Wifi:</string>
+    <string name="label_MobileOperator">Operatore Mobile</string>
+    <string name="label_MobileNetworkType">Tipo connessione:</string>
+
+    <string name="error_unexpected">Errore inaspettato</string>
+    <string name="error_handheld_not_connected">Collega il tuo dispositivo mobile e riprova</string>
+    <string name="error_handheld_comunication">Errore di comunicazione con il dispositivo mobile</string>
+
+	<!-- Menu -->
+    <string name="menu_setting">Impostazioni</string>
+    <string name="menu_about">Info</string>
+    <string name="menu_refresh">Aggiorna</string>
+	
+</resources>

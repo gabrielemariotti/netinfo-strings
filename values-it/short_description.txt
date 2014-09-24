@@ -1,0 +1,4 @@
+Short description (80 character limit)
+======================================
+
+Un'app leggera per controllare i dettagli della tua connessione dall'orologio.

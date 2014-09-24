@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <string name="dash_title_notconnected">Niet verbonden</string>
+    <string name="dash_title_airplanemode">Vliegmodus</string>
+    <string name="dash_subtitle_roaming">In gegevensroaming</string>
+    <string name="ip">IP:</string>
+
+
+    <string name="title_wifi">Wifi:</string>
+    <string name="title_mobile">Mobiel:</string>
+    <string name="label_notConnected">Niet verbonden</string>
+    <string name="label_connected">Verbonden</string>
+    <string name="label_Ip">IP-adres:</string>
+    <string name="label_Speed">Wifi-snelheid:</string>
+    <string name="label_MobileOperator">Mobiele provider</string>
+    <string name="label_MobileNetworkType">Netwerktype:</string>
+
+	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
+    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
+    <string name="error_unexpected">Unexpected error</string>
+	
+	<!-- Menu -->
+    <string name="menu_setting">Instellingen</string>
+    <string name="menu_about">Over</string>
+    <string name="menu_refresh">Ververs</string>
+</resources>

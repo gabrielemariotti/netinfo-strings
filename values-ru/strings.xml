@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <string name="dash_title_notconnected">Не подключен </string>
+    <string name="dash_title_airplanemode">Режим полета</string>
+    <string name="dash_subtitle_roaming">В роуминге</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_wifi">Wifi:</string>
+    <string name="title_mobile">Мобильный:</string>
+    <string name="label_notConnected">Нет соединения</string>
+    <string name="label_connected">Подключено</string>
+    <string name="label_Ip">IP-адрес:</string>
+    <string name="label_Speed">Скорость соед. Wifi:</string>
+    <string name="label_MobileOperator">Оператор</string>
+    <string name="label_MobileNetworkType">Тип соединения:</string>
+
+    <string name="error_handheld_not_connected">Connect your handheld and retry.</string>
+    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
+    <string name="error_unexpected">Unexpected error</string>
+    
+	<!-- Menu -->
+    <string name="menu_setting">Настройки</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_refresh">Обновить</string>
+   
+</resources>

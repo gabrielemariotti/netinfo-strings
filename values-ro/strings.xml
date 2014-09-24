@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dash_title_notconnected">Nu este conectat</string>
+    <string name="dash_title_airplanemode">Mod Avion</string>
+    <string name="dash_subtitle_roaming">In Roaming</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_activityDebug">Depanare</string>
+    <string name="title_wifi">WiFi:</string>
+    <string name="title_mobile">Mobil:</string>
+    <string name="label_notConnected">Nu este conectat</string>
+    <string name="label_connected">Conectat</string>
+    <string name="label_Ip">Adresa IP:</string>
+    <string name="label_Speed">Viteza WiFi:</string>
+
+    <string name="label_MobileOperator">Operator Telefonie</string>
+    <string name="label_MobileNetworkType">Tip de Retea:</string>
+	
+	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
+    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
+    <string name="error_unexpected">Unexpected error</string>
+	
+	
+	<!-- Menu -->
+    <string name="menu_setting">Setari</string>
+    <string name="menu_about">Despre</string>
+    <string name="menu_refresh">Reactualizare</string>
+    
+</resources>

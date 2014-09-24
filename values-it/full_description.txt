@@ -1,0 +1,18 @@
+Full description (4000 character limit)
+======================================
+
+<b>Net info</b> è una applicazione leggera per il tuo Android Wear.
+<b>OK Google... apri net info</b>.
+Ora puoi controllare i dettagli della connessione del tuo dispositivo mobile direttamente dal tuo orologio.
+
+<b>Funzioni</b>
+• Wifi: stato della connessione (connesso/non connesso)
+• Wifi: nome (SSID)
+• Wifi: velocità
+• Mobile: stato della connessione (connesso/non connesso)
+• Mobile: nome dell'operatore
+• Mobile: tipo di connessione
+
+<b>Attezione: per utilizzare questa app devi avere un dispositivo con Android Wear!</b>
+
+<i>Per ogni tipo di problema non esitare a contattarmi</i>

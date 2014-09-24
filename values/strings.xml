@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">NetInfo</string>
+
+    <string name="dash_title_notconnected">Not Connected</string>
+    <string name="dash_title_airplanemode">Airplane mode</string>
+    <string name="dash_subtitle_roaming">In roaming</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_wifi">Wifi:</string>
+    <string name="title_mobile">Mobile:</string>
+    <string name="label_notConnected">Not Connected</string>
+    <string name="label_connected">Connected</string>
+    <string name="label_Ip">IP Address:</string>
+    <string name="label_Speed">Wifi Speed:</string>
+    <string name="label_MobileOperator">Mobile Operator</string>
+    <string name="label_MobileNetworkType">Network type:</string>
+
+    <string name="error_handheld_not_connected">Connect your handheld and retry.</string>
+    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
+    <string name="error_unexpected">Unexpected error</string>
+
+	 <!-- Menu -->
+    <string name="menu_setting">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>

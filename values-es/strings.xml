@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string name="dash_title_notconnected">No conectado</string>
+    <string name="dash_title_airplanemode">Modo avión</string>
+    <string name="dash_subtitle_roaming">En itinerancia</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_wifi">Wifi:</string>
+    <string name="title_mobile">Red móvil:</string>
+    <string name="label_notConnected">No conectado</string>
+    <string name="label_connected">Conectado</string>
+    <string name="label_Ip">Dirección IP:</string>
+    <string name="label_Speed">Velocidad Wifi:</string>
+    <string name="label_MobileOperator">Operadora</string>
+    <string name="label_MobileNetworkType">Tipo de red:</string>
+
+
+    <string name="error_handheld_not_connected">Connect your handheld and retry.</string>
+    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
+    <string name="error_unexpected">Unexpected error</string>	
+
+ 
+	  <!-- Menu -->
+    <string name="menu_setting">Ajustes</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_refresh">Refrescar</string>
+    <string name="menu_debug">Debug</string>
+
+</resources>
