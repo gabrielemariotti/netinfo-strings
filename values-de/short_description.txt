@@ -1,4 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-A light app to check the network detail from your wear device.
+App zum Anzeigen der Netz-Informationen auf Ihrem Android Wear Gerät
