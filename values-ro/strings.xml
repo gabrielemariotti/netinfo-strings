@@ -14,16 +14,16 @@
     <string name="label_Speed">Viteza WiFi:</string>
 
     <string name="label_MobileOperator">Operator Telefonie</string>
-    <string name="label_MobileNetworkType">Tip de Retea:</string>
+    <string name="label_MobileNetworkType">Tip de Rețea:</string>
 	
-	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
-    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
-    <string name="error_unexpected">Unexpected error</string>
+	<string name="error_handheld_not_connected">Conectează dispozitivul mobil și încearcă din nou.</string>
+    <string name="error_handheld_comunication">Eroare de comunicare cu dispozitivul mobil</string>
+    <string name="error_unexpected">Eroare neașteptată</string>
 	
 	
 	<!-- Menu -->
-    <string name="menu_setting">Setari</string>
+    <string name="menu_setting">Setări</string>
     <string name="menu_about">Despre</string>
-    <string name="menu_refresh">Reactualizare</string>
+    <string name="menu_refresh">Actualizează</string>
     
 </resources>
