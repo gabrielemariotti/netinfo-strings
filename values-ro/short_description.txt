@@ -1,4 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-O aplicație simplă care afișează informații de rețea pe dispozitivul tău wear.
+O aplicație simplă care afișează informații despre rețea pe ceasul tău Wear.
