@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">NetInfo</string>
+
+    <string name="dash_title_notconnected">Ikke tilkoblet</string>
+    <string name="dash_title_airplanemode">Flymodus</string>
+    <string name="dash_subtitle_roaming">Roaming</string>
+    <string name="ip">IP:</string>
+
+    <string name="title_wifi">Wi-Fi:</string>
+    <string name="title_mobile">Mobil:</string>
+    <string name="label_notConnected">Ikke tilkoblet</string>
+    <string name="label_connected">Tilkoblet</string>
+    <string name="label_Ip">IP-adresse:</string>
+    <string name="label_Speed">Wi-Fi-hastighet:</string>
+    <string name="label_MobileOperator">Mobiloperatør</string>
+    <string name="label_MobileNetworkType">Nettverksmodus:</string>
+
+    <string name="error_handheld_not_connected">Koble til enheten din og prøv på nytt.</string>
+    <string name="error_handheld_comunication">Det oppstod en feil ved henting av informasjon fra enheten din</string>
+    <string name="error_unexpected">Uventet feil</string>
+
+	 <!-- Menu -->
+    <string name="menu_setting">Innstillinger</string>
+    <string name="menu_about">Om</string>
+    <string name="menu_refresh">Oppdater</string>
+</resources>

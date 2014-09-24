@@ -1,0 +1,18 @@
+Full description (4000 character limit)
+======================================
+
+<b>Net info</b> er en enkel app for Android Wear.
+<b>OK Google... open net info.</b>
+Du kan nå sjekke nettverksinformasjon for telefonen/tableten din uten å ta den ut av lommen.
+
+<b>Funksjoner</b>
+• Wi-Fi-status: tilkoblet/ikke tilkoblet
+• Wi-Fi-navn (SSID)
+• Wi-Fi-hastighet
+• Mobilstatus: tilkoblet/ikke tilkoblet
+• Mobiloperatør
+• Nettverksmodus for mobil
+
+<b>Vennligst merk: en Android Wear-enhet er nødvendig!</b>
+
+<i>Ikke nøl med å kontakte meg om det er noen problemer.</i>
