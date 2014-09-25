@@ -3,16 +3,16 @@ Full description (4000 character limit)
 
 <b>Net info</b> est une petite appli pour Android Wear.
 <b>OK Google... ouvrir net info.</b>
-Maintenant vous pouvez vérifier les informations réseau de votre mobile sans avoir besoin de sortir votre téléphone de votre poche.
+Maintenant vous pouvez vÃ©rifier les informations rÃ©seau de votre mobile sans avoir besoin de sortir votre tÃ©lÃ©phone de votre poche.
 
-<b>Fonctionnalités</b>
-• état du wifi : connecté/non connecté
-• nom du réseau wifi (SSID)
-• vitesse du wifi
-• État du mobile : connecté/non connecté
-• Opérateur mobile
-• Type de connexion mobile
+<b>FonctionnalitÃ©s</b>
+â€¢ Ã©tat du wifi : connectÃ©/non connectÃ©
+â€¢ nom du rÃ©seau wifi (SSID)
+â€¢ vitesse du wifi
+â€¢ Ã‰tat du mobile : connectÃ©/non connectÃ©
+â€¢ OpÃ©rateur mobile
+â€¢ Type de connexion mobile
 
 <b>Veuillez noter : un appareil Android Wear est requis !</b>
 
-<i>Pour tout type de problème, ne pas hésiter à me contacter.</i>
+<i>Pour tout type de problÃ¨me, ne pas hÃ©siter Ã  me contacter.</i>
