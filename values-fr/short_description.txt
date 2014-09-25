@@ -1,4 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-A light app to check the network detail from your wear device.
+Une application légère pour vérifier les informations du réseau sur votre appareil Android Wear.
