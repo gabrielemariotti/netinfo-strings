@@ -16,9 +16,9 @@
     <string name="label_MobileOperator">Opérateur mobile</string>
     <string name="label_MobileNetworkType">Type de réseau:</string>
 
-	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
-    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
-    <string name="error_unexpected">Unexpected error</string>	
+	<string name="error_handheld_not_connected">Connectez votre appareil et réessayez.</string>
+    <string name="error_handheld_comunication">Erreur lors de la récupération des infos</string>
+    <string name="error_unexpected">Erreur inattendue</string>	
 
 	 <!-- Menu -->
     <string name="menu_setting">Paramètres</string>
