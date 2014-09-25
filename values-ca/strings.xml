@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dash_title_notconnected">No Connectat</string>
+    <string name="dash_title_airplanemode">Mode avió</string>
+    <string name="dash_subtitle_roaming">Itinerància de dades</string>
+
+    <string name="title_mobile">Mòbil:</string>
+    <string name="label_notConnected">No Connectat</string>
+    <string name="label_connected">Connectat</string>
+    <string name="label_Ip">Adreça IP:</string>
+    <string name="label_Speed">Velocitat Wifi:</string>
+    <string name="label_MobileOperator">Operador Mòbil</string>
+    <string name="label_MobileNetworkType">Tipus de xarxa:</string>
+
+    <string name="error_handheld_not_connected">Connecti el seu dispositiu i torni-ho a intentar.</string>
+    <string name="error_handheld_comunication">Error obtenint informació del dispositiu</string>
+    <string name="error_unexpected">Error inesperat</string>
+
+    <!-- Menu -->
+    <string name="menu_setting">Preferències</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_refresh">Refrescar</string>
+</resources>

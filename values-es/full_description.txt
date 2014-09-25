@@ -1,18 +1,18 @@
 Full description (4000 character limit)
 ======================================
 
-<b>Net info</b> is a light app for Android Wear.
+<b>Net info</b> es una pequeña aplicación para su dispositivo Android Wear
 <b>OK Google... open net info.</b>
-Now you can check the network details of your handheld without taking your phone out of your pocket.
+Entonces podrá comprobar el estado de conexión de red desde su dispositivo sin la necesidad de tener que sacar su dispositivo móvil del bolsillo. 
 
-<b>Features</b>
-• wifi state: connected/not connected
-• wifi name (SSID)
-• wifi speed
-• Mobile state: connected/not connected
-• Mobile operator
-• Mobile type connection
+<b>Funcionalidades</b>
+• Estado de la red wifi : conectado/no conectado
+• Nombre de la red wifi (SSID)
+• Velocidad de la red wifi
+• Estado de la connexión móvil: conectado/no contectado
+• Operador móvil
+• Tipo de conexión móvil
 
-<b>Please note: an Android Wear device is needed! </b>
+<b>Nota: Es necesario que tenga un dispositivo Android Wear! </b>
 
-<i>For all kinds of issue do not hesitate to contact me.</i>
+<i>Para cualquier problema, no dude en contactar conmigo.</i>

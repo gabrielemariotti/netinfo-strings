@@ -1,0 +1,18 @@
+Full description (4000 character limit)
+======================================
+
+<b>Net info</b> és una petita aplicació pel seu dispositiu Android Wear.
+<b>OK Google... open net info.</b>
+Ara podrà comprovar l'estat de la xarxa al seu dispositiu sense la necessitat de treure el seu mòbil de la butxaca.
+
+<b>Característiques</b>
+• Estat de la xarxa sense fils (wifi): connectat/no connectat
+• Nom de la xarxa sense fils (SSID)
+• Velocitat de la xarxa sense fils
+• Estat de la xarxa mòbil: connectat/no connectat
+• Operador mòbil
+• Tipus de connexió mòbil
+
+<b>Nota: Per l'ús d'aquesta aplicació, és necessari un dispositiu Android Wear! </b>
+
+<i>Per a qualsevol tipus de problema, no dubtin en posar-se en contacte amb mí.</i>
