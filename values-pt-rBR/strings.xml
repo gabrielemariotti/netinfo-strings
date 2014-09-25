@@ -8,17 +8,17 @@
 
    
     <string name="title_wifi">WiFi:</string>
-    <string name="title_mobile">Celular:</string>
+    <string name="title_mobile">Rede Móvel:</string>
     <string name="label_notConnected">Desconectado</string>
     <string name="label_connected">Conectado</string>
     <string name="label_Ip">Endereço IP:</string>
-    <string name="label_Speed">Velocidade da WiFi:</string>
-    <string name="label_MobileOperator">Operadora Móvel</string>
-    <string name="label_MobileNetworkType">Tipo:</string>
+    <string name="label_Speed">Velocidade do WiFi:</string>
+    <string name="label_MobileOperator">Operadora</string>
+    <string name="label_MobileNetworkType">Tipo de Rede:</string>
 	
-	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
-    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
-    <string name="error_unexpected">Unexpected error</string>
+    <string name="error_handheld_not_connected">Conecte seu celular e tente novamente.</string>
+    <string name="error_handheld_comunication">Error ao receber informações do celular</string>
+    <string name="error_unexpected">Error inesperado</string>
 	
 	
     <!-- Menu -->
