@@ -4,25 +4,25 @@
     <string name="dash_title_notconnected">Non connecté</string>
     <string name="dash_title_airplanemode">Mode avion</string>
     <string name="dash_subtitle_roaming">Itinérance</string>
-    <string name="ip">IP:</string>
+    <string name="ip">IP :</string>
 
 
-    <string name="title_wifi">Wifi:</string>
-    <string name="title_mobile">Mobile:</string>
+    <string name="title_wifi">Wifi :</string>
+    <string name="title_mobile">Mobile :</string>
     <string name="label_notConnected">Non connecté</string>
     <string name="label_connected">Connecté</string>
-    <string name="label_Ip">Adresse IP:</string>
-    <string name="label_Speed">Vitesse Wifi:</string>
+    <string name="label_Ip">Adresse IP :</string>
+    <string name="label_Speed">Vitesse Wifi :</string>
     <string name="label_MobileOperator">Opérateur mobile</string>
-    <string name="label_MobileNetworkType">Type de réseau:</string>
+    <string name="label_MobileNetworkType">Type de réseau :</string>
 
-	<string name="error_handheld_not_connected">Connect your handheld and retry.</string>
-    <string name="error_handheld_comunication">Error retrieving info by handheld</string>
-    <string name="error_unexpected">Unexpected error</string>	
+	<string name="error_handheld_not_connected">Connectez votre mobile et réessayez.</string>
+    <string name="error_handheld_comunication">Impossible de récuperer les infos par le mobile</string>
+    <string name="error_unexpected">Erreur inattendue</string>	
 
 	 <!-- Menu -->
     <string name="menu_setting">Paramètres</string>
-    <string name="menu_about">A propos</string>
+    <string name="menu_about">À propos</string>
     <string name="menu_refresh">Rafraîchir</string>
    
 </resources>
