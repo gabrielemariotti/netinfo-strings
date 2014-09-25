@@ -1,8 +1,8 @@
 Full description (4000 character limit)
 ======================================
 
-<b>Net info</b> ist eine App für Android Wear.
-<b>OK Google... um net info zu starten</b>
+<b>Net Info</b> ist eine App für Android Wear.
+<b>OK Google... um Net Info zu starten</b>
 und schon sehen Sie alle Netz-Informationen ohne dass Sie Ihr Smartphone aus der Hosentasche nehmen müssen.
 
 <b>Features</b>
