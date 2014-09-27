@@ -17,8 +17,8 @@
     <string name="label_MobileNetworkType">Tipo de Rede:</string>
 	
     <string name="error_handheld_not_connected">Conecte seu celular e tente novamente.</string>
-    <string name="error_handheld_comunication">Error ao receber informações do celular</string>
-    <string name="error_unexpected">Error inesperado</string>
+    <string name="error_handheld_comunication">Erro ao receber informações do celular</string>
+    <string name="error_unexpected">Erro inesperado</string>
 	
 	
     <!-- Menu -->
